@@ -261,3 +261,33 @@ install.packages("KernSmooth")
 
 help(package = "KernSmooth")
 library(KernSmooth)
+
+
+
+install.packages("rmarkdown")
+library(rmarkdown)
+
+tinytex::install_tinytex()
+library(tinytex)
+
+?tlmgr
+libary(tlmgr)
+install.packages("tlmgr")
+
+version
+install.packages("Rtools")
+
+updateR()
+install.packages("installr")
+library(installr)
+
+
+require(installr)
+updateR()
+
+version
+
+tlmgr::tlmgr_install()
+?loadedNamespaces
+
+tlmgr::install_tlmgr()
