@@ -291,3 +291,11 @@ tlmgr::tlmgr_install()
 ?loadedNamespaces
 
 tlmgr::install_tlmgr()
+
+{
+  r cars
+  }
+summary(cars)
+
+{r pressure, echo=FALSE}
+plot(pressure)
