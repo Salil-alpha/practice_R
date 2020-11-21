@@ -415,3 +415,20 @@ mean(mtcars$mpg)
 
 
 ?iris
+
+
+install.packages("learnr")
+library(learnr)
+install.packages("dygraphs")
+library(dygraphs)
+install.packages("nycflights13")
+install.packages("tidyverse")
+library(tidyverse)
+library(nycflights13)
+
+
+install.packages("ggplot2")
+library(ggplot2)
+
+
+

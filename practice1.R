@@ -299,3 +299,5 @@ summary(cars)
 
 {r pressure, echo=FALSE}
 plot(pressure)
+
+
